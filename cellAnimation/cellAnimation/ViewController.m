@@ -28,6 +28,9 @@ UITableView *tab;
         mm.title = [NSString stringWithFormat:@"------------%d",i];
         
         [array addObject:mm];
+        
+        
+        NSLog(@"++++++++++++++++999999999999");
     }
     
     
